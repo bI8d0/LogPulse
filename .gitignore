@@ -1,0 +1,8 @@
+build/
+.idea
+*.exe
+*.o
+*.a
+/debian/LogPulse/
+.debhelper
+logpulse
